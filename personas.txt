@@ -1,0 +1,214 @@
+{
+   "persona": [
+      {
+         "id": 302600403,
+         "nombre": "Daniel Fernando",
+         "primerap": "Ballestero",
+         "segundoap": "Uma\u00f1a",
+         "correo": "daniel.ballestero.umana@mep.go.cr"
+      },
+      {
+         "id": 106540419,
+         "nombre": "Milton Eliseo De San Martin",
+         "primerap": "Lobo",
+         "segundoap": "Nu\u00f1ez",
+         "correo": "miltonelobo@gmail.com"
+      },
+      {
+         "id": 502890635,
+         "nombre": "Emilce Liseth",
+         "primerap": "Vargas",
+         "segundoap": "Campos",
+         "correo": "liseth.vargas.campos@fod.ac.cr"
+      },
+      {
+         "id": 502850756,
+         "nombre": "Roberto Elias",
+         "primerap": "Molina",
+         "segundoap": "Rosales",
+         "correo": "roberto.molina.rosales@mep.go.cr"
+      },
+      {
+         "id": 108290982,
+         "nombre": "Carlos Manuel",
+         "primerap": "Zapata",
+         "segundoap": "Cerdas",
+         "correo": "carlos.zapata.cerdas@mep.go.cr"
+      },
+      {
+         "id": 107570905,
+         "nombre": "Jose Yamil",
+         "primerap": "Alvarez",
+         "segundoap": "Cabalceta",
+         "correo": "yamil.alvarez.cabalceta@mep.go.cr"
+      },
+      {
+         "id": 112160596,
+         "nombre": "Cinthya Yesenia",
+         "primerap": "Corrales",
+         "segundoap": "Alvarado",
+         "correo": "112160596@nomail.com"
+      },
+      {
+         "id": 105960154,
+         "nombre": "Gladys Lorena",
+         "primerap": "Jimenez",
+         "segundoap": "Solano",
+         "correo": "esc.puertonuevo@mep.go.cr"
+      },
+      {
+         "id": 502820232,
+         "nombre": "Seidy",
+         "primerap": "Lopez",
+         "segundoap": "Medina",
+         "correo": "seidy.lopez.medina@mep.go.cr"
+      },
+      {
+         "id": 107980545,
+         "nombre": "Alexis",
+         "primerap": "Vargas",
+         "segundoap": "Calderon",
+         "correo": "107980545@nomail.com"
+      },
+      {
+         "id": 105210055,
+         "nombre": "Hector Miguel Del Carmen",
+         "primerap": "Segura",
+         "segundoap": "Prado",
+         "correo": "105210055@nomail.com"
+      },
+      {
+         "id": 104850674,
+         "nombre": "Miguel Angel",
+         "primerap": "Fuentes",
+         "segundoap": "Fuentes",
+         "correo": "miguel.fuentes.fuentes@mep.go.cr"
+      },
+      {
+         "id": 107640438,
+         "nombre": "Herminia Maria",
+         "primerap": "Baldivia",
+         "segundoap": "Hernandez",
+         "correo": "107640438@nomail.com"
+      },
+      {
+         "id": 104920381,
+         "nombre": "Manuel Antonio",
+         "primerap": "Vila",
+         "segundoap": "Vargas",
+         "correo": "104920381@nomail.com"
+      },
+      {
+         "id": 105960915,
+         "nombre": "Maria Gabriela",
+         "primerap": "Matamoros",
+         "segundoap": "Landazuri",
+         "correo": "105960915@nomail.com"
+      },
+      {
+         "id": 800720668,
+         "nombre": "Janina Ruth",
+         "primerap": "Castillo",
+         "segundoap": "Pasos",
+         "correo": "800720668@nomail.com"
+      },
+      {
+         "id": 107130829,
+         "nombre": "Jorge Enrique",
+         "primerap": "Flores",
+         "segundoap": "Nu\u00f1ez",
+         "correo": "107130829@nomail.com"
+      },
+      {
+         "id": 701410305,
+         "nombre": "Jhovan Martin",
+         "primerap": "Perez",
+         "segundoap": "Navarrete",
+         "correo": "jhovan.perez.navarrete@mep.go.cr"
+      },
+      {
+         "id": 701120963,
+         "nombre": "Erika Ester",
+         "primerap": "Reyes",
+         "segundoap": "Aleman",
+         "correo": "701120963@nomail.com"
+      },
+      {
+         "id": 205130061,
+         "nombre": "Emidey Gerarda",
+         "primerap": "Arias",
+         "segundoap": "Hernandez",
+         "correo": "emidey.arias.hernandez@mep.go.cr"
+      },
+      {
+         "id": 501870378,
+         "nombre": "Nubia Lides",
+         "primerap": "Marchena",
+         "segundoap": "Viales",
+         "correo": "501870378@nomail.com"
+      },
+      {
+         "id": 111090452,
+         "nombre": "Jessica Perlina",
+         "primerap": "Bent",
+         "segundoap": "Morales",
+         "correo": "111090452@nomail.com"
+      },
+      {
+         "id": 110590870,
+         "nombre": "Karla Vanessa",
+         "primerap": "Mora",
+         "segundoap": "Sanchez",
+         "correo": "kmora20@yahoo.com"
+      },
+      {
+         "id": 111820374,
+         "nombre": "Flor De Maria",
+         "primerap": "Corella",
+         "segundoap": "Monge",
+         "correo": "flor.corella.monge@mep.go.cr"
+      },
+      {
+         "id": 502820103,
+         "nombre": "Yessenia",
+         "primerap": "Ruiz",
+         "segundoap": "Contreras",
+         "correo": "yessenia.ruiz.contreras@mep.go.cr"
+      },
+      {
+         "id": 503420096,
+         "nombre": "Jennifer Marcela",
+         "primerap": "Gutierrez",
+         "segundoap": "Vargas",
+         "correo": "esc.camposdeoro@mep.go.cr"
+      },
+      {
+         "id": 110300227,
+         "nombre": "Juan Carlos",
+         "primerap": "Valverde",
+         "segundoap": "Rivera",
+         "correo": "juan.valverde.rivera@mep.go.cr"
+      },
+      {
+         "id": 603490324,
+         "nombre": "Andrea Merceditas",
+         "primerap": "Mejias",
+         "segundoap": "Gomez",
+         "correo": "Amejias_g@hotmail.com"
+      },
+      {
+         "id": 107310409,
+         "nombre": "Luis Alejandro",
+         "primerap": "Aponte",
+         "segundoap": "Quiros",
+         "correo": "esc.canoblanco@mep.go.cr"
+      },
+      {
+         "id": 113100411,
+         "nombre": "Andrea Carolina",
+         "primerap": "Castillo",
+         "segundoap": "Villalobos",
+         "correo": "ancarcavi27@gmail.com"
+      }
+   ]
+}

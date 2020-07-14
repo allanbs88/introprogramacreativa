@@ -1,0 +1,136 @@
+{
+    "libro": [
+        {
+            "id": "idLibro"
+        },
+        {
+            "nombre": "nombre"
+        },
+        {
+            "genero": "Genero"
+        },
+        {
+            "autor": "Autor"
+        },
+        {
+            "id": 1.0
+        },
+        {
+            "nombre": "Cien a\u00f1os de soledad"
+        },
+        {
+            "genero": "Novela"
+        },
+        {
+            "autor": "Gabriel Garc\u00eda M\u00e1rquez"
+        },
+        {
+            "id": 2.0
+        },
+        {
+            "nombre": "Don Quijote de la Mancha"
+        },
+        {
+            "genero": "Aburrido"
+        },
+        {
+            "autor": "Miguel de Cervantes"
+        },
+        {
+            "id": 3.0
+        },
+        {
+            "nombre": "Hamlet"
+        },
+        {
+            "genero": "Teatro"
+        },
+        {
+            "autor": "William Shakespeare"
+        },
+        {
+            "id": 4.0
+        },
+        {
+            "nombre": "El Principito"
+        },
+        {
+            "genero": "Fantas\u00eda"
+        },
+        {
+            "autor": " Antoine de Saint Exup\u00e9ry"
+        },
+        {
+            "id": 5.0
+        },
+        {
+            "nombre": "Orgullo y Prejuicio"
+        },
+        {
+            "genero": "Romantico"
+        },
+        {
+            "autor": "Jane Austen "
+        },
+        {
+            "id": 6.0
+        },
+        {
+            "nombre": 1984.0
+        },
+        {
+            "genero": "Misterio"
+        },
+        {
+            "autor": "George Orwell "
+        },
+        {
+            "id": 7.0
+        },
+        {
+            "nombre": "La Odisea"
+        },
+        {
+            "genero": "Poes\u00eda"
+        },
+        {
+            "autor": "Homero"
+        },
+        {
+            "id": 8.0
+        },
+        {
+            "nombre": "El retrato de Dorian Grey"
+        },
+        {
+            "genero": "Fantas\u00eda"
+        },
+        {
+            "autor": "Oscar Wilde"
+        },
+        {
+            "id": 9.0
+        },
+        {
+            "nombre": "Lo que el viento se llev\u00f3"
+        },
+        {
+            "genero": "Drama"
+        },
+        {
+            "autor": "Margaret Mitchell"
+        },
+        {
+            "id": 10.0
+        },
+        {
+            "nombre": "Moby-Dick"
+        },
+        {
+            "genero": "Fantas\u00eda"
+        },
+        {
+            "autor": "Herman Melville"
+        }
+    ]
+}
